@@ -1,0 +1,2 @@
+"""Course receipt delivery service."""
+
